@@ -12,7 +12,6 @@
   <code>Fast Learner</code> &nbsp;&nbsp;
   <code>Team Player</code> &nbsp;&nbsp;
   <code>Critical Thinker</code> &nbsp;&nbsp;
-  <code>Growth Mindset</code> &nbsp;&nbsp;
   <code>Adaptable</code> &nbsp;&nbsp;
 </div>
 
