@@ -15,6 +15,68 @@
   <code>Adaptable</code> &nbsp;&nbsp;
 </div>
 
+<br><br>
+
+<div align="center">
+<details>
+  <summary>See some of my projects</summary>
+
+<br/>
+
+---
+
+#### Academic projects
+
+<b>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Course</th>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/parking-management-system">parking-management-system</a></td>
+    <td>Algorithms and Data Structures</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/zoo-management-system">zoo-management-system</a></td>
+    <td>Object-Oriented Programming</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/kvs-server">kvs-server</a></td>
+    <td>Operating Systems</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/ai-nuruomino-solver">ai-nuruomino-solver</a></td>
+    <td>Artificial Intelligence</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/event-booking-server">event-booking-server</a></td>
+    <td>Computer Networks</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/blockchain">blockchain</a></td>
+    <td>Distributed Systems</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/RodrigojndSantos/humanaEthica">humanaEthica</a></td>
+    <td>Software Engineering</td>
+  </tr>
+
+</table>
+<br>
+</details>
+</div>
+
+---
+
 <br>
 
 <h4 align="center">Connect with me:</h4>
