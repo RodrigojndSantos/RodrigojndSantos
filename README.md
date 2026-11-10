@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rodrigo Santos</h1>
 
 <div align="center">
-  Third-year Bachelor’s student in <strong>Computer Science and Engineering</strong> at Instituto Superior Técnico
+  Master’s student in <strong>Computer Science and Engineering</strong> at Instituto Superior Técnico
 </div>
 
 <br><b>
